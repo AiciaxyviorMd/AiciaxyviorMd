@@ -46,7 +46,9 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="center"> 
+  <img alig src="https://raw.githubusercontent.com/YanzBotz/YanzBotz/main/code.gif"/>
+</p>
 
 <a href="https://instagram.com/_aliciazyn">
 <img alt="Instagram" title="follow me <3" src="https://img.shields.io/badge/-instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
