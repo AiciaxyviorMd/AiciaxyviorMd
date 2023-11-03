@@ -19,8 +19,8 @@
     Personal.prototype.interesting = ['programming', 'video games', 'hangings out with friends'];
     
     var lua = new Person("alicia", 18, "Node.js")
-    console.log(lua.info());
-    console.log(`My interests includes: ${lua.interesting.join(', ')}.`);
+    console.log(alicia.info());
+    console.log(`My interests includes: ${alicia.interesting.join(', ')}.`);
 ```
 
   </a>
