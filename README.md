@@ -7,9 +7,9 @@
 ```javascript
   function Personal(name, age, hobby)
     {    
-        conn.name= name; 
-        conn.age= age;
-        conn.hobby = hobby;
+        conn.name= aliciazyn; 
+        conn.age= 18;
+        conn.hobby = mencintaimu;
     }
     
       Personal.prototype.info = function() {
@@ -18,7 +18,7 @@
     
     Personal.prototype.interesting = ['programming', 'video games', 'hangings out with friends'];
     
-    var lua = new Person("lua", 19, "Node.js")
+    var lua = new Person("alicia", 18, "Node.js")
     console.log(lua.info());
     console.log(`My interests includes: ${lua.interesting.join(', ')}.`);
 ```
