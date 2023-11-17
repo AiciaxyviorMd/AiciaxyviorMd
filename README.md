@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-    <img src="https://telegra.ph/file/306e1b921dccc0a739c3a.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="[[https://telegra.ph/file/92530c05a330eb83fcfa9.jpg]]" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 
